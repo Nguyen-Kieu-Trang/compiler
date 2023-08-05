@@ -1,0 +1,4 @@
+- scanner <2w>
+- parser - syntax analysis: đọc từ trái sang phải, để có được nghĩa khác nhau <3w>
+- semantic analyzer  <3w>
+- 
